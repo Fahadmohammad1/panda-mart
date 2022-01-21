@@ -5,6 +5,8 @@ body {
 }
 .primary-btn {
   background: linear-gradient(180deg, #ff589b -0.01%, #ff136f 99.99%);
+  margin-bottom: 15px;
+  border-radius: 10px;
 }
 
 .primary-color {
@@ -26,4 +28,8 @@ body {
 }
 #shoes-bgd {
   background: linear-gradient(170.41deg, #4289ff -10.89%, #3f07f8 92.77%);
+}
+.form-back {
+  background-color: #feeae9;
+  border-radius: 10px;
 }
